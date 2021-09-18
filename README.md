@@ -5,13 +5,12 @@
 [https://opentutorials.org/course/4570/28965](https://opentutorials.org/course/4570/28965)  
 
 ### 프로젝트 동기  
-생활코딩의 [머신러닝1](https://opentutorials.org/course/4548) 강좌를 들은 뒤 딥러닝에도 흥미가 생겼고  
-실제로 코드를 작성하며 실습하고 결과를 보며 배워 나가고 싶어 진행하게 되었습니다.
+ - 생활코딩의 [머신러닝1](https://opentutorials.org/course/4548) 강좌를 들은 뒤 딥러닝에도 흥미가 생겼고 실제로 코드를 작성하며 실습하고 결과를 보며 배워 나가고 싶어 진행하게 되었습니다.
 
 ### 프로젝트 언어 및 환경  
-프로그래밍 환경: Google Colabolatory  
-프로그래밍 언어: Python  
-딥러닝 라이브러리: TensorFlow  
+ - 프로그래밍 환경: Google Colabolatory  
+ - 프로그래밍 언어: Python  
+ - 딥러닝 라이브러리: TensorFlow  
 
 ## 1. 오리엔테이션
 
