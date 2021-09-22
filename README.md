@@ -66,7 +66,7 @@
  - epoch마다 loss가 0에 가까워지고 있는지 확인하며 loss가 원하는 수준으로 떨어질 때까지 반복해서 학습을 시키면 됩니다.  
 
 ## 6. 두 번째 딥러닝 - 보스턴 집값 예측  
- - [실습 코드](https://github.com/kimeunh3/Intro_to_Tensorflow/blob/main/%EC%8B%A4%EC%8A%B53_%EB%B3%B4%EC%8A%A4%ED%84%B4_%EC%A7%91%EA%B0%92_%EC%98%88%EC%B8%A1.ipynb)
+ - [실습 코드](https://github.com/kimeunh3/Intro_to_Tensorflow/blob/main/%EC%8B%A4%EC%8A%B53_%EB%B3%B4%EC%8A%A4%ED%84%B4_%EC%A7%91%EA%B0%92_%EC%98%88%EC%B8%A1.ipynb)  
 
 ### 중앙값 (median value)  
  - 주어진 값을 순서대로 정렬한 다음에 그 중에서 가장 가운데에 있는 값이 **중앙값(median value)** 입니다.  
@@ -80,11 +80,25 @@
  - 인공신경망에서 두뇌 세포 뉴런의 역할을 하는 것이 **퍼셉트론(Perceptron)** 입니다.
  - 위의 식에서 각 w는 **가중치(weight)** 를 뜻하고, b는 **편향(bias)** 을 뜻합니다.
 
+## 7. 세 번째 딥러닝 - 아이리스 품종 분류  
+ - [실습 코드](https://github.com/kimeunh3/Intro_to_Tensorflow/blob/main/%EC%8B%A4%EC%8A%B53_%EC%95%84%EC%9D%B4%EB%A6%AC%EC%8A%A4_%ED%92%88%EC%A2%85_%EB%B6%84%EB%A5%98.ipynb)  
 
+### 원핫인코딩 (onehot-encoding)  
+ - 범주형 데이터를 1과 0의 데이터로 바꿔주는 과정을 **원핫인코딩(onehot-encoding)** 이라고 합니다.  
+ - 딥러닝 모델을 사용하기 위해서는 모든 범주형 변수를 원핫인코딩 해줘야 합니다.  
 
+### 소프트맥스 (Softmax)  
+ - 분류 예측을 비율로 예측하기 위해 **소프트맥스(Softmax)** 를 사용합니다.  
+ - 소프트맥스 함수는 값을 0과 1사이의 값으로 변환해줍니다.  
+ - 회귀모델에서는 Identity 함수가, Softmax 함수는 분류모델에서 사용됩니다.  
+    - Identity 함수는 값을 바꾸지 않은 형태 그대로를 내보내는 함수입니다.  
+ - 이렇게 y의 값의 형태를 바꿔주는 모든 함수들을 **활성화(activation) 함수** 라고 부릅니다.  
 
-
-
+### Cross Entropy  
+ - 분류모델에 사용하는 loss입니다.  
+ - 회귀모델에는 **MSE(Mean Squared Error)** 를 사용합니다.  
+ - 분류모델에서는 사람이 보기에 더 좋은 평가 지표로 **정확도(accuracy)** 를 사용하기도 합니다.  
+    - 1은 정확도 100%를, 0은 정확도 0%를 뜻합니다.  
 
 
 
