@@ -47,7 +47,7 @@
  4. 모델을 이용합니다.  
 
 ## 4. 표를 다루는 도구 판다스  
- - [실습 코드](https://github.com/kimeunh3/Intro_to_Tensorflow/blob/main/%ED%91%9C%EB%A5%BC_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%8F%84%EA%B5%AC_%ED%8C%90%EB%8B%A4%EC%8A%A4.ipynb)  
+ - [실습 코드](https://github.com/kimeunh3/Intro_to_Tensorflow/blob/main/%EC%8B%A4%EC%8A%B51_%ED%91%9C%EB%A5%BC_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%8F%84%EA%B5%AC_%ED%8C%90%EB%8B%A4%EC%8A%A4.ipynb)  
 
 ### 실습을 통해 배울 도구들  
  - 파일 읽어오기: `pd.read_csv('/경로/파일명.csv')`  
@@ -81,7 +81,7 @@
  - 위의 식에서 각 w는 **가중치(weight)** 를 뜻하고, b는 **편향(bias)** 을 뜻합니다.
 
 ## 7. 세 번째 딥러닝 - 아이리스 품종 분류  
- - [실습 코드](https://github.com/kimeunh3/Intro_to_Tensorflow/blob/main/%EC%8B%A4%EC%8A%B53_%EC%95%84%EC%9D%B4%EB%A6%AC%EC%8A%A4_%ED%92%88%EC%A2%85_%EB%B6%84%EB%A5%98.ipynb)  
+ - [실습 코드](https://github.com/kimeunh3/Intro_to_Tensorflow/blob/main/%EC%8B%A4%EC%8A%B54_%EC%95%84%EC%9D%B4%EB%A6%AC%EC%8A%A4_%ED%92%88%EC%A2%85_%EB%B6%84%EB%A5%98.ipynb)  
 
 ### 원핫인코딩 (onehot-encoding)  
  - 범주형 데이터를 1과 0의 데이터로 바꿔주는 과정을 **원핫인코딩(onehot-encoding)** 이라고 합니다.  
