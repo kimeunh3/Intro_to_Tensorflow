@@ -108,7 +108,7 @@
  - 입력 부분과 히든레이어를 연결하는 모델, 히든레이어와 출력부분을 연결하는 모델, 이렇게 각각의 모델을 연속적으로 연결하여 하나의 거대한 신경망을 만드는 것이 **딥러닝, 인공신경망** 입니다.  
 
 ## 부록1. 데이터를 위한 팁
- - [실습 코드]()  
+ - [실습 코드](https://github.com/kimeunh3/Intro_to_Tensorflow/blob/main/%EC%8B%A4%EC%8A%B56_%EB%8D%B0%EC%9D%B4%ED%84%B0_%ED%83%80%EC%9E%85_%EC%A1%B0%EC%A0%95.ipynb)  
 
 ### 데이터 타입 조정
  - 변수(칼럼) 타입 확인
@@ -124,29 +124,5 @@
     - NA 값 채우기
         - `데이터['칼럼명'].fillna(특정숫자)`
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## 부록2. 모델을 위한 팁
+ - [실습 코드](https://github.com/kimeunh3/Intro_to_Tensorflow/blob/main/%EC%8B%A4%EC%8A%B57_%ED%95%99%EC%8A%B5%EC%9D%B4_%EC%9E%98%EB%90%98%EB%8A%94_%EB%AA%A8%EB%8D%B8.ipynb)  
