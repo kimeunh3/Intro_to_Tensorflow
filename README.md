@@ -2,7 +2,7 @@
 
 ## 프로젝트 소개  
  - 이 프로젝트는 아래 링크의 생활코딩의 딥러닝 강좌를 진행하며 학습하였습니다.  
- > [https://opentutorials.org/course/4570/28965](https://opentutorials.org/course/4570/28965)  
+ > [Tensorflow (python)](https://opentutorials.org/course/4570/28965)  
 
 ### 프로젝트 동기  
  - 생활코딩의 [머신러닝1](https://opentutorials.org/course/4548) 강좌를 들은 뒤 딥러닝에도 흥미가 생겼고 실제로 코드를 작성하며 실습하고 결과를 보며 배워 나가고 싶어 진행하게 되었습니다.
